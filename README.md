@@ -10,7 +10,7 @@ This project aims to develop a channel-based tool for addressing programming-rel
 - Query for users with the most/least posts.
 - UI design compatible with mobile clients.
 
-The user interface is built using React.js, and the backend employs MySQL database, with Node.js servers exposing the database.
+This user interface is built using React.js, and the backend employs MySQL database, with Node.js servers exposing the database.
 
 ### Architecture
 
